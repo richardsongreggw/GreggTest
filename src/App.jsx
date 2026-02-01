@@ -7,6 +7,12 @@ function App() {
       name: 'Portfolio Hub',
       description: 'A central hub for my 30 apps in 30 days challenge. Mobile-responsive home page with links to all my projects.',
       url: '#'
+    },
+    {
+      date: '2025-01-31',
+      name: 'Retro Tetris',
+      description: 'Classic Tetris game with Game Boy Color styling, keyboard and touch controls, scoring, levels, high scores, and retro sound effects.',
+      url: 'https://retro-tetris-rho.vercel.app'
     }
     // Add more apps here as you build them
   ]
