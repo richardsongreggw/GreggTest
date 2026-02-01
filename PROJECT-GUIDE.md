@@ -13,8 +13,9 @@ This is my journey to build 30 web apps in 30 days to learn modern web developme
 
 ### This Repository (Portfolio Hub)
 - **Purpose**: Central hub/home page linking to all 30 apps
-- **URL**: [To be deployed on Vercel]
+- **URL**: https://gregg-test.vercel.app
 - **App #1 of 30**
+- **Auto-deploys**: Pushes to master branch automatically deploy to Vercel
 
 ### Other Apps (2-30)
 - **Each app gets its own separate folder/repository**
